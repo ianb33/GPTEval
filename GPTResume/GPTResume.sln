@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPTResume", "GPTResume\GPTResume.csproj", "{CCBC8AE8-AF16-4D61-8F91-C8F3D8778948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBC8AE8-AF16-4D61-8F91-C8F3D8778948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBC8AE8-AF16-4D61-8F91-C8F3D8778948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBC8AE8-AF16-4D61-8F91-C8F3D8778948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBC8AE8-AF16-4D61-8F91-C8F3D8778948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F164F29-6526-4951-82F0-6409265A6116}
+	EndGlobalSection
+EndGlobal
