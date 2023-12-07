@@ -123,7 +123,7 @@ partial class Program
             resumeData.ProfessionalSummary = resumeData.ProfessionalSummary;
         }
 
-        string filePath = "C:/Users/ianbe/Documents/MyResume.pdf";
+        string filePath = Directory.GetCurrentDirectory() + "/resume.pdf";
 
         // Create and design the resume using QuestPDF
         var document = new ResumeDocument(resumeData);
